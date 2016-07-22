@@ -11,7 +11,7 @@ import (
 	"github.com/fairlyblank/md2min"
 )
 
-// 定义一个访问者结构体
+// this is one struct
 type Visitor struct{}
 
 func (self *Visitor) md2html(arg map[string]string) error {
@@ -44,11 +44,8 @@ func (self *Visitor) md2html(arg map[string]string) error {
 			input = regexp.MustCompile(`https:\/\/github\.com\/astaxie\/build-web-application-with-golang\/blob\/master\/`).ReplaceAllString(input, "")
 		}
 
-		// 以#开头的行，在#后增加空格
-		// 以#开头的行, 删除多余的空格
 		input = FixHeader(input)
 
-		// 删除页面链接
 		input = RemoveFooterLink(input)
 
 		// remove image suffix
