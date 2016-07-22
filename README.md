@@ -16,4 +16,6 @@ collect for golang serialization project
 
 ---
 
-Copyright 2016 sinlovgm@gmail.com
+The MIT License (MIT)
+
+Copyright (c) 2016 sinlovgm@gmail.com
