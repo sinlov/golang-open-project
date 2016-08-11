@@ -41,7 +41,7 @@ func (self *Visitor) md2html(arg map[string]string) error {
 		input = regexp.MustCompile(`\[(.*?)\]\(<?(.*?)\.md>?\)`).ReplaceAllString(input, "[$1](<$2.html>)")
 
 		if f.Name() == "README.md" {
-			input = regexp.MustCompile(`https:\/\/github\.com\/astaxie\/build-web-application-with-golang\/blob\/master\/`).ReplaceAllString(input, "")
+			input = regexp.MustCompile(`https:\/\/github\.com\/sinlov\/golang-open-project\/blob\/master\/`).ReplaceAllString(input, "")
 		}
 
 		// 以#开头的行，在#后增加空格
