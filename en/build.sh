@@ -14,10 +14,10 @@ WORKDIR="$(cd $(dirname $0); pwd -P)"
 # You can overwrite following variables in config file.
 #
 MSG_INSTALL_PANDOC_FIRST='please install pandoc, before run this shell'
-MSG_SUCCESSFULLY_GENERATED='golang-open-project.epub 已经建立'
+MSG_SUCCESSFULLY_GENERATED='golang-open-project.epub build success'
 MSG_CREATOR='Sinlov'
 MSG_DESCRIPTION='one book of golang open project'
-MSG_LANGUAGE='en-CN'
+MSG_LANGUAGE='en-EN'
 MSG_TITLE='Go Open Project'
 [ -e "$WORKDIR/config" ] && . "$WORKDIR/config"
 
@@ -51,6 +51,6 @@ mkdir -p $TMP/images
 cp -r $WORKDIR/images/* $TMP/images/
 ls [0-9]*.html | xargs $SED -i "s/png?raw=true/png/g"
 
-pandoc --reference-links -S --toc -f html -t epub --epub-metadata=metadata.txt --epub-cover-image="$WORKDIR/images/cover.png" -o "$WORKDIR/../build-web-application-with-golang.epub" `ls [0-9]*.html | sort`
+pandoc --reference-links -S --toc -f html -t epub --epub-metadata=metadata.txt --epub-cover-image="$WORKDIR/images/cover.png" -o "$WORKDIR/../golang-open-project.epub" `ls [0-9]*.html | sort`
 
 echo "$MSG_SUCCESSFULLY_GENERATED"
