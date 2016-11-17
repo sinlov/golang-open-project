@@ -107,6 +107,7 @@
 
 - [认证模块](12.3.md#认证模块)
     - [oauth2.0 模块](12.3.md#oauth2.0-模块)
+    - [jwt-go](12.3.md#jwt-go)
 - [验证码模块](12.3.md#验证码模块)
     - [dchest/captcha 图片声音验证模块](12.3.md#dchest/captcha-图片声音验证模块)
 
@@ -129,6 +130,16 @@
 
 - [docker工具](14.1.md#docker工具)
     - [fsouza/go-dockerclient docker客户端](14.1.md#fsouza/go-dockerclient-docker客户端)
+
+
+[README](README.md)
+
+- [golang-open-project](README.md#golang-open-project)
+
+
+[SUMMARY](SUMMARY.md)
+
+
 
 
 --------------
