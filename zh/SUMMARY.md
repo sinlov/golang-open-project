@@ -4,6 +4,10 @@
     - [gomobile 移动设备支持](00.1.md#gomobile-移动设备支持)
 
 
+- [依赖管理](00.2.md#依赖管理)
+    - [tools/godep](00.2.md#tools/godep)
+
+
 - [文本工具](01.1.md#文本工具)
     - [Markdown 转换器](01.1.md#markdown-转换器)
         - [fairlyblank/md2min](01.1.md#fairlyblank/md2min)
