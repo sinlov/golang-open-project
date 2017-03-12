@@ -17,6 +17,7 @@
 
 - [数据工具](01.2.md#数据工具)
     - [跳表数据结构 mtchavez/skiplist](01.2.md#跳表数据结构-mtchavez/skiplist)
+    - [UUID 生成 go.uuid](01.2.md#uuid-生成-go.uuid)
 
 
 - [0 基础工具](10.0.md#0-基础工具)
