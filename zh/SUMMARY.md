@@ -31,8 +31,6 @@
     - [github.com/bmizerany/assert assert 单元测试工具](10.0.md#github.com/bmizerany/assert-assert-单元测试工具)
         - [使用方法](10.0.md#使用方法)
         - [运行测试](10.0.md#运行测试)
-- [指定哪个包被测试](10.0.md#指定哪个包被测试)
-- [指定哪一个子用例被测试 例如 TestAsserts](10.0.md#指定哪一个子用例被测试-例如-testasserts)
 - [字符集转换工具](10.0.md#字符集转换工具)
     - [axgle/mahonia 字符集转换工具](10.0.md#axgle/mahonia-字符集转换工具)
 - [Go GUI IDE](10.0.md#go-gui-ide)
@@ -52,10 +50,6 @@
 - [json 序列化](11.0.md#json-序列化)
     - [gig-simplejson](11.0.md#gig-simplejson)
     - [json2go](11.0.md#json2go)
-- [查看帮助](11.0.md#查看帮助)
-- [直接通过api转换为 golang struct](11.0.md#直接通过api转换为-golang-struct)
-- [通过json 文件转换为 golang struct](11.0.md#通过json-文件转换为-golang-struct)
-- [生成golang struct 同时配置ymal](11.0.md#生成golang-struct-同时配置ymal)
     - [donnie4w/json4g](11.0.md#donnie4w/json4g)
     - [gojson](11.0.md#gojson)
     - [dutchcoders/XMLGen](11.0.md#dutchcoders/xmlgen)
@@ -81,9 +75,6 @@
 - [一 微服务工具](12.0.md#一-微服务工具)
     - [1 RPC服务](12.0.md#1-rpc服务)
         - [可插拔的RPC服务 go-micro](12.0.md#可插拔的rpc服务-go-micro)
-- [运行Consul](12.0.md#运行consul)
-- [运行go-micro](12.0.md#运行go-micro)
-- [测试服务](12.0.md#测试服务)
 
 
 - [持久化](12.1.md#持久化)
@@ -116,6 +107,12 @@
 
 - [docker工具](14.1.md#docker工具)
     - [fsouza/go-dockerclient docker客户端](14.1.md#fsouza/go-dockerclient-docker客户端)
+
+
+
+
+
+- [golang-open-project](README.md#golang-open-project)
 
 
 
