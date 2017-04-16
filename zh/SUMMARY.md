@@ -21,7 +21,7 @@
     - [UUID 生成 go.uuid](01.2.md#uuid-生成-go.uuid)
 
 
-- [0 基础工具](10.0.md#0-基础工具)
+- [基础工具](10.0.md#基础工具)
 - [编程辅助](10.0.md#编程辅助)
     - [语法提示器 gocode](10.0.md#语法提示器-gocode)
 - [日志工具](10.0.md#日志工具)
@@ -46,7 +46,7 @@
     - [jlaffaye/ftp FTP传输工具](10.2.md#jlaffaye/ftp-ftp传输工具)
 
 
-- [1 序列化工具](11.0.md#1-序列化工具)
+- [序列化工具](11.0.md#序列化工具)
 - [json 序列化](11.0.md#json-序列化)
     - [gig-simplejson](11.0.md#gig-simplejson)
     - [json2go](11.0.md#json2go)
