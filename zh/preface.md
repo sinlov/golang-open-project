@@ -30,6 +30,12 @@
     - [UUID 生成 go.uuid](01.2.md#uuid-生成-go.uuid)
 
 
+[01.3](01.3.md)
+
+- [加密工具](01.3.md#加密工具)
+    - [sinlov/fastEncryptDecode](01.3.md#sinlov/fastencryptdecode)
+
+
 [10.0](10.0.md)
 
 - [基础工具](10.0.md#基础工具)

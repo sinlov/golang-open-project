@@ -21,6 +21,10 @@
     - [UUID 生成 go.uuid](01.2.md#uuid-生成-go.uuid)
 
 
+- [加密工具](01.3.md#加密工具)
+    - [sinlov/fastEncryptDecode](01.3.md#sinlov/fastencryptdecode)
+
+
 - [基础工具](10.0.md#基础工具)
 - [编程辅助](10.0.md#编程辅助)
     - [语法提示器 gocode](10.0.md#语法提示器-gocode)
