@@ -20,7 +20,9 @@
         - [fairlyblank/md2min](01.1.md#fairlyblank/md2min)
         - [russross/blackfriday markdown 转换器](01.1.md#russross/blackfriday-markdown-转换器)
 - [服务器监视工具](01.1.md#服务器监视工具)
-    - [divan/expvarmon 可视化监视系统状态工具](01.1.md#divan/expvarmon-可视化监视系统状态工具)
+    - [divan/expvarmon 可视化监视服务运行状态工具](01.1.md#divan/expvarmon-可视化监视服务运行状态工具)
+    - [hashicorp/consul 微服务调度控制工具](01.1.md#hashicorp/consul-微服务调度控制工具)
+    - [prometheus/prometheus 服务器系统状态监视工具](01.1.md#prometheus/prometheus-服务器系统状态监视工具)
 
 
 [01.2](01.2.md)
