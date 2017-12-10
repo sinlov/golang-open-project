@@ -19,6 +19,7 @@
     - [Markdown 转换器](01.1.md#markdown-转换器)
         - [fairlyblank/md2min](01.1.md#fairlyblank/md2min)
         - [russross/blackfriday markdown 转换器](01.1.md#russross/blackfriday-markdown-转换器)
+    - [tealeg/xlsx xlsx工具](01.1.md#tealeg/xlsx-xlsx工具)
 
 
 [01.2](01.2.md)
