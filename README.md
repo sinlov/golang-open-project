@@ -15,7 +15,7 @@ This repository for collect and classify golang open project
 
 * [English](en/)
 * [中文](zh/)
-    - [中文目录](zh/SUMMARY.md)
+    - [中文目录](zh/preface.md)
 
 # Serialization
 
