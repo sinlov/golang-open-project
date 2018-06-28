@@ -54,6 +54,13 @@
     - [cloudinsight/cloudinsight-agent 服务监视报警工具](01.5-服务器监视工具.md#cloudinsight/cloudinsight-agent-服务监视报警工具)
 
 
+[01.6-专业数据库](01.6-专业数据库.md)
+
+- [专业数据库](01.6-专业数据库.md#专业数据库)
+    - [influxdata/influxdb 监控级时序数据库](01.6-专业数据库.md#influxdata/influxdb-监控级时序数据库)
+    - [tidwall/tile38 GIS 地理信息时序数据库](01.6-专业数据库.md#tidwall/tile38-gis-地理信息时序数据库)
+
+
 [10.0-基础工具](10.0-基础工具.md)
 
 - [基础工具](10.0-基础工具.md#基础工具)
