@@ -29,6 +29,7 @@
     - [安全map orcaman/concurrent-map](01.2-数据工具.md#安全map-orcaman/concurrent-map)
     - [跳表数据结构 mtchavez/skiplist](01.2-数据工具.md#跳表数据结构-mtchavez/skiplist)
     - [UUID 生成 go.uuid](01.2-数据工具.md#uuid-生成-go.uuid)
+    - [spf13/viper 配置解决方案](01.2-数据工具.md#spf13/viper-配置解决方案)
 
 
 [01.3-加密工具](01.3-加密工具.md)
