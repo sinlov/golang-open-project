@@ -163,6 +163,7 @@
 [12.1-持久化工具](12.1-持久化工具.md)
 
 - [持久化工具](12.1-持久化工具.md#持久化工具)
+    - [yiigo golang 辅助库](12.1-持久化工具.md#yiigo-golang-辅助库)
     - [kiteq 多种持久化方案的mq框架](12.1-持久化工具.md#kiteq-多种持久化方案的mq框架)
         - [Use](12.1-持久化工具.md#use)
     - [blackbeans/flume-bridge flume的go语言客户端](12.1-持久化工具.md#blackbeans/flume-bridge-flume的go语言客户端)
