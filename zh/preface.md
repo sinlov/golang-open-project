@@ -22,6 +22,7 @@
         - [fairlyblank/md2min](01.1-文本工具.md#fairlyblank/md2min)
         - [russross/blackfriday markdown 转换器](01.1-文本工具.md#russross/blackfriday-markdown-转换器)
     - [tealeg/xlsx xlsx工具](01.1-文本工具.md#tealeg/xlsx-xlsx工具)
+    - [swaggo/swag swaggerAPI生成器](01.1-文本工具.md#swaggo/swag-swaggerAPI生成器)
 
 
 [01.2-数据工具](01.2-数据工具.md)
