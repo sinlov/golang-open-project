@@ -170,6 +170,8 @@
     - [RPC服务](12.0-微服务工具.md#rpc服务)
         - [可插拔的RPC服务 go-micro](12.0-微服务工具.md#可插拔的rpc服务-go-micro)
     - [go-kit](12.0-微服务工具.md#go-kit)
+    - [认证服务](12.0-微服务工具.md#认证服务)
+        - [github.com/casbin/casbin casbin 授权库](12.0-微服务工具.md#github.com/casbin/casbin-casbin-授权库)
 
 
 [12.1-持久化工具](12.1-持久化工具.md)
