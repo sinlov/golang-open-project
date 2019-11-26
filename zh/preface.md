@@ -15,6 +15,12 @@
     - [tools/godep](00.2-依赖管理.md#tools/godep)
 
 
+[00.3-文档工具](00.3-文档工具.md)
+
+- [文档工具](00.3-文档工具.md#文档工具)
+    - [gowalker.org 在线文档生成](00.3-文档工具.md#gowalker.org-在线文档生成)
+
+
 [01.1-文本工具](01.1-文本工具.md)
 
 - [文本工具](01.1-文本工具.md#文本工具)
@@ -63,6 +69,14 @@
 - [专业数据库](01.6-专业数据库.md#专业数据库)
     - [influxdata/influxdb 监控级时序数据库](01.6-专业数据库.md#influxdata/influxdb-监控级时序数据库)
     - [tidwall/tile38 GIS 地理信息时序数据库](01.6-专业数据库.md#tidwall/tile38-gis-地理信息时序数据库)
+
+
+[01.7-数据缓存](01.7-数据缓存.md)
+
+- [数据缓存](01.7-数据缓存.md#数据缓存)
+    - [github.com/muesli/cache2gogo 简单内存库](01.7-数据缓存.md#github.com/muesli/cache2gogo-简单内存库)
+    - [github.com/eko/gocache 多模式缓存库](01.7-数据缓存.md#github.com/eko/gocache-多模式缓存库)
+    - [github.com/philippgille/gokv kv缓存库](01.7-数据缓存.md#github.com/philippgille/gokv-kv缓存库)
 
 
 [02.1-测试工具](02.1-测试工具.md)
@@ -170,8 +184,6 @@
     - [RPC服务](12.0-微服务工具.md#rpc服务)
         - [可插拔的RPC服务 go-micro](12.0-微服务工具.md#可插拔的rpc服务-go-micro)
     - [go-kit](12.0-微服务工具.md#go-kit)
-    - [认证服务](12.0-微服务工具.md#认证服务)
-        - [github.com/casbin/casbin casbin 授权库](12.0-微服务工具.md#github.com/casbin/casbin-casbin-授权库)
 
 
 [12.1-持久化工具](12.1-持久化工具.md)
@@ -193,11 +205,26 @@
 [12.3-认证模块](12.3-认证模块.md)
 
 - [认证模块](12.3-认证模块.md#认证模块)
+    - [认证服务](12.3-认证模块.md#认证服务)
+        - [github.com/casbin/casbin casbin 授权库](12.3-认证模块.md#github.com/casbin/casbin-casbin-授权库)
     - [oauth2.0 模块](12.3-认证模块.md#oauth2.0-模块)
     - [jwt-go](12.3-认证模块.md#jwt-go)
         - [jwt-go error](12.3-认证模块.md#jwt-go-error)
 - [验证码模块](12.3-认证模块.md#验证码模块)
     - [dchest/captcha 图片声音验证模块](12.3-认证模块.md#dchest/captcha-图片声音验证模块)
+
+
+[12.4-验证码](12.4-验证码.md)
+
+- [验证码](12.4-验证码.md#验证码)
+    - [dchest/captcha 图片声音验证模块](12.4-验证码.md#dchest/captcha-图片声音验证模块)
+
+
+[12.5-服务监控](12.5-服务监控.md)
+
+- [服务监控](12.5-服务监控.md#服务监控)
+    - [opentracing-go 分布式链路追踪](12.5-服务监控.md#opentracing-go-分布式链路追踪)
+    - [Jaeger 链路追踪](12.5-服务监控.md#jaeger-链路追踪)
 
 
 [13.1-图片处理](13.1-图片处理.md)
