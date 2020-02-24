@@ -89,6 +89,31 @@
     - [parnurzeal/gorequest客户端](04.0-网络工具.md#parnurzeal/gorequest客户端)
 
 
+[04.1-MQTT](04.1-MQTT.md)
+
+- [MQTT 协议](04.1-MQTT.md#mqtt-协议)
+    - [surgemq/surgemq MQTT服务端客户端](04.1-MQTT.md#surgemq/surgemq-mqtt服务端客户端)
+
+
+[05.0-脚本化工具](05.0-脚本化工具.md)
+
+- [脚本化工具](05.0-脚本化工具.md#脚本化工具)
+    - [像shell一样使用go github.com/bitfield/script](05.0-脚本化工具.md#像shell一样使用go-github.com/bitfield/script)
+
+
+[05.1-js引擎](05.1-js引擎.md)
+
+- [js-引擎](05.1-js引擎.md#js-引擎)
+    - [js 解析执行环境 github.com/robertkrimen/otto](05.1-js引擎.md#js-解析执行环境-github.com/robertkrimen/otto)
+    - [js 执行引擎 rogchap.com/v8go](05.1-js引擎.md#js-执行引擎-rogchap.com/v8go)
+
+
+[05.2-lua引擎](05.2-lua引擎.md)
+
+- [lua 引擎](05.2-lua引擎.md#lua-引擎)
+    - [lua编译运行引擎 github.com/yuin/gopher-lua](05.2-lua引擎.md#lua编译运行引擎-github.com/yuin/gopher-lua)
+
+
 [10.0-基础工具](10.0-基础工具.md)
 
 - [基础工具](10.0-基础工具.md#基础工具)
@@ -251,12 +276,6 @@
 
 - [docker 工具](14.1-docker工具.md#docker-工具)
     - [fsouza/go-dockerclient docker客户端](14.1-docker工具.md#fsouza/go-dockerclient-docker客户端)
-
-
-[15.1-MQTT](15.1-MQTT.md)
-
-- [MQTT 协议](15.1-MQTT.md#mqtt-协议)
-    - [surgemq/surgemq MQTT服务端客户端](15.1-MQTT.md#surgemq/surgemq-mqtt服务端客户端)
 
 
 [16.0-专业数据库](16.0-专业数据库.md)
