@@ -79,6 +79,7 @@
 
 - [运维工具](03.0-运维工具.md#运维工具)
     - [服务器运维](03.0-运维工具.md#服务器运维)
+        - [平滑重启 github.com/fvbock/endless](03.0-运维工具.md#平滑重启-github.com/fvbock/endless)
         - [goagain 零下线时间式重启](03.0-运维工具.md#goagain-零下线时间式重启)
         - [caddy 跨平台HTTP/2服务代理](03.0-运维工具.md#caddy-跨平台http/2服务代理)
 
