@@ -94,6 +94,7 @@
 
 - [http客户端](04.0-网络工具.md#http客户端)
     - [parnurzeal/gorequest客户端](04.0-网络工具.md#parnurzeal/gorequest客户端)
+    - [github.com/tomsteele/blacksheepwall 域名搜索工具](04.0-网络工具.md#github.com/tomsteele/blacksheepwall-域名搜索工具)
 
 
 [04.1-MQTT](04.1-MQTT.md)
