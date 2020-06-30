@@ -243,8 +243,6 @@
     - [oauth2.0 模块](12.3-认证模块.md#oauth2.0-模块)
     - [jwt-go](12.3-认证模块.md#jwt-go)
         - [jwt-go error](12.3-认证模块.md#jwt-go-error)
-- [验证码模块](12.3-认证模块.md#验证码模块)
-    - [dchest/captcha 图片声音验证模块](12.3-认证模块.md#dchest/captcha-图片声音验证模块)
 
 
 [12.4-验证码](12.4-验证码.md)
