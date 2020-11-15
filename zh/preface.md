@@ -179,11 +179,13 @@
 - [iso8583](11.0-序列化工具.md#iso8583)
 
 
-[11.1-ORM工具](11.1-ORM工具.md)
+[11.1-SQL映射工具](11.1-SQL映射工具.md)
 
-- [ORM 工具](11.1-ORM工具.md#orm-工具)
-    - [xorm](11.1-ORM工具.md#xorm)
-        - [xorm 辅助工具](11.1-ORM工具.md#xorm-辅助工具)
+- [SQL映射工具](11.1-SQL映射工具.md#sql映射工具)
+    - [github.com/jmoiron/sqlx SQL增强](11.1-SQL映射工具.md#github.com/jmoiron/sqlx-sql增强)
+    - [github.com/Masterminds/squirrel SQL生成](11.1-SQL映射工具.md#github.com/masterminds/squirrel-sql生成)
+    - [xorm ORM 映射](11.1-SQL映射工具.md#xorm-orm-映射)
+        - [xorm 辅助工具](11.1-SQL映射工具.md#xorm-辅助工具)
 
 
 [11.2-WebSokcet](11.2-WebSokcet.md)
