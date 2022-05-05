@@ -72,6 +72,7 @@
     - [Pallinder/go-randomdata 随机数据生成器](02.1-测试工具.md#pallinder/go-randomdata-随机数据生成器)
     - [gostub 测试打桩工具](02.1-测试工具.md#gostub-测试打桩工具)
     - [golang/mock/gomock mock模拟](02.1-测试工具.md#golang/mock/gomock-mock模拟)
+    - [codesenberg/bombardier http1/2 压测工具](02.1-测试工具.md#codesenberg/bombardier-http1/2-压测工具)
     - [smartystreets/goconvey 测试用例统计](02.1-测试工具.md#smartystreets/goconvey-测试用例统计)
 
 
@@ -165,6 +166,10 @@
 [11.0-序列化工具](11.0-序列化工具.md)
 
 - [序列化工具](11.0-序列化工具.md#序列化工具)
+- [多向序列化](11.0-序列化工具.md#多向序列化)
+    - [hcl2json](11.0-序列化工具.md#hcl2json)
+    - [github.com/sclevine/yj](11.0-序列化工具.md#github.com/sclevine/yj)
+    - [toml](11.0-序列化工具.md#toml)
 - [json 序列化](11.0-序列化工具.md#json-序列化)
     - [gig-simplejson](11.0-序列化工具.md#gig-simplejson)
     - [buger/jsonparser](11.0-序列化工具.md#buger/jsonparser)

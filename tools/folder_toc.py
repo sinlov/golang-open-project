@@ -83,7 +83,7 @@ Your input error
 
 def print_cli_by_is_verbose(msg=str):
     if is_verbose:
-        print msg
+        print(msg)
 
 
 def auto_move_toc(full):
@@ -111,7 +111,7 @@ def generate_file_toc(root=str, root_len=int, f_name=str, save_name=str):
     with open(os.path.join(root, f_name), 'r') as md_file:
         lines = md_file.readlines()
         if len(lines) == 0:
-            print 'You file is empty, please check it!'
+            print('You file is empty, please check it!')
             return
     newlines = auto_move_toc(lines)
     # remove ``` ``` for line code
@@ -149,9 +149,9 @@ def generate_markdown_folder(root_path=str):
     global folder_deep
     if os.path.exists(save_path):
         os.remove(save_path)
-    print "=== Save path ===\nas: " + save_path + '\n'
+    print("=== Save path ===\nas: " + save_path + '\n')
     if folder_deep != 5:
-        print 'folder level change as: ' + str(folder_deep) + '\n'
+        print('folder level change as: ' + str(folder_deep) + '\n')
     now_folder_deep = 1
     root_len = len(root_path)
     for root, dirs, files in os.walk(top=folder_path, topdown=True, followlinks=False):
@@ -184,7 +184,7 @@ def generate_markdown_folder(root_path=str):
 if __name__ == '__main__':
     folder_path = ''
     if len(sys.argv) < 2:
-        print error_info
+        print(error_info)
         exit(1)
     parser = optparse.OptionParser('\n%prog ' + '-p \n\tOr %prog <folder>\n' + hint_help_info)
     parser.add_option('-v', dest='v_verbose', action="store_true", help="see verbose", default=False)
@@ -209,13 +209,13 @@ if __name__ == '__main__':
         folder_path = options.f_folder
     # check args finish
     if not os.path.exists(folder_path):
-        print "Your input Folder is not exist " + folder_path
+        print("Your input Folder is not exist " + folder_path)
         exit(-1)
     if os.path.isdir(folder_path) < 1:
-        print "You input " + folder_path + "is not folder"
+        print("You input " + folder_path + "is not folder")
         exit(-2)
     # check folder path finish
-    print 'You want generate path \n\tat: ' + str(folder_path)
+    print('You want generate path \n\tat: ' + str(folder_path))
     save_path = os.path.realpath(folder_path) + "/" + save_file_name
     generate_markdown_folder(folder_path)
-    print '=== folder generate success! ===\nSee at ' + save_path
+    print('=== folder generate success! ===\nSee at ' + save_path)
