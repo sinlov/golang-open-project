@@ -11,6 +11,7 @@
 [00.2-依赖管理](00.2-依赖管理.md)
 
 - [依赖管理](00.2-依赖管理.md#依赖管理)
+    - [gmchart](00.2-依赖管理.md#gmchart)
     - [dep](00.2-依赖管理.md#dep)
     - [tools/godep](00.2-依赖管理.md#tools/godep)
 
@@ -88,6 +89,7 @@
 [03.1-定时任务](03.1-定时任务.md)
 
 - [定时任务](03.1-定时任务.md#定时任务)
+    - [antlabs/timer 定时器-基于5级时间轮](03.1-定时任务.md#antlabs/timer-定时器-基于5级时间轮)
     - [go版本cron github.com/robfig/cron](03.1-定时任务.md#go版本cron-github.com/robfig/cron)
 
 
@@ -151,6 +153,9 @@
 
 - [命令行工具](10.1-命令行工具.md#命令行工具)
     - [urfave/cli 命令行](10.1-命令行工具.md#urfave/cli-命令行)
+    - [commander-cli/commander](10.1-命令行工具.md#commander-cli/commander)
+    - [logrusorgru/aurora 输出命令行着色](10.1-命令行工具.md#logrusorgru/aurora-输出命令行着色)
+    - [commander-cli/cmd 全平台命令行执行](10.1-命令行工具.md#commander-cli/cmd-全平台命令行执行)
     - [mkideal/cli 简单命令行](10.1-命令行工具.md#mkideal/cli-简单命令行)
     - [fsouza/go-dockerclient docker 客户端](10.1-命令行工具.md#fsouza/go-dockerclient-docker-客户端)
     - [富交互命令行工具 github.com/rivo/tview](10.1-命令行工具.md#富交互命令行工具-github.com/rivo/tview)
@@ -171,6 +176,7 @@
     - [github.com/sclevine/yj](11.0-序列化工具.md#github.com/sclevine/yj)
     - [toml](11.0-序列化工具.md#toml)
 - [json 序列化](11.0-序列化工具.md#json-序列化)
+    - [tidwall/gjson 支持单个快速解析 json](11.0-序列化工具.md#tidwall/gjson-支持单个快速解析-json)
     - [gig-simplejson](11.0-序列化工具.md#gig-simplejson)
     - [buger/jsonparser](11.0-序列化工具.md#buger/jsonparser)
     - [json2go](11.0-序列化工具.md#json2go)
@@ -275,6 +281,12 @@
     - [mackerelio/mackerel-agent 服务监视工具](12.6-服务器运行监视工具.md#mackerelio/mackerel-agent-服务监视工具)
     - [cloudinsight/cloudinsight-agent 服务监视报警工具](12.6-服务器运行监视工具.md#cloudinsight/cloudinsight-agent-服务监视报警工具)
     - [fgeller/kt kafka 监控命令行工具](12.6-服务器运行监视工具.md#fgeller/kt-kafka-监控命令行工具)
+
+
+[12.7-分布式锁](12.7-分布式锁.md)
+
+- [分布式锁](12.7-分布式锁.md#分布式锁)
+    - [github.com/go-redsync/redsync](12.7-分布式锁.md#github.com/go-redsync/redsync)
 
 
 [13.1-图片处理](13.1-图片处理.md)
