@@ -13,14 +13,11 @@ This repository for collect and classify golang open project
 
 # Multiple Language Versions
 
-* [English](en/)
-* [中文](zh/)
-    - [中文目录](zh/preface.md)
+- gitbook change to [variants to share Language](https://docs.gitbook.com/publishing/share/collection-publishing)
 
 # Serialization
 
 collect for golang serialization project
-
 
 
 #License
